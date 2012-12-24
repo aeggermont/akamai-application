@@ -16,13 +16,29 @@ written this in and why, if you were given the choice.
 Solutions
 =========
 
-Solution 1:
+Solution 1 ( located in directory solution1 ):
 
 XML generator written in Perl
 
-Solution 2:
+Python script:     emailXMLGen.py 
+CSV source files:  emails.csv
+                   industry_lookup.csv
+Archive file:      AntonioEggermont-PythonSolution.tar
+
+To run the program:
+   1. Change execute permissions to this script:
+         chmod a+x emailListGen.py
+   2. Then simply run ./emailListGen.py
+
+
+Solution 2 ( located in directory solution2 ):
 
 XML generator written in Python
+
+Perl script:       emailXMLGen.pl
+CSV source files:  emails.csv
+                   industry_lookup.csv
+Archive file:      AntonioEggermont-PerlSolution.tar
 
 
 Notes
