@@ -17,8 +17,9 @@ Solutions
 =========
 
 Solution 1 ( located in directory solution1 ):
+---------------------------------------------
 
-XML generator written in Perl
+XML generator written in Python
 
 * Python script:     emailXMLGen.py 
 * CSV source files:  emails.csv
@@ -27,14 +28,16 @@ XML generator written in Perl
 
 
 To run the program:
-   1. Change execute permissions to this script:
+
+    1. Change execute permissions to this script:
          chmod a+x emailListGen.py
-   2. Then simply run ./emailListGen.py
+    2. Then simply run ./emailListGen.py
 
 
 Solution 2 ( located in directory solution2 ):
+---------------------------------------------
 
-XML generator written in Python
+XML generator written in Perl
 
 * Perl script:       emailXMLGen.pl
 * CSV source files:  emails.csv
