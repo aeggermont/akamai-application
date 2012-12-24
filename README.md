@@ -20,10 +20,11 @@ Solution 1 ( located in directory solution1 ):
 
 XML generator written in Perl
 
-Python script:     emailXMLGen.py 
-CSV source files:  emails.csv
+* Python script:     emailXMLGen.py 
+* CSV source files:  emails.csv
                    industry_lookup.csv
-Archive file:      AntonioEggermont-PythonSolution.tar
+* Archive file:      AntonioEggermont-PythonSolution.tar
+
 
 To run the program:
    1. Change execute permissions to this script:
@@ -35,10 +36,17 @@ Solution 2 ( located in directory solution2 ):
 
 XML generator written in Python
 
-Perl script:       emailXMLGen.pl
-CSV source files:  emails.csv
-                   industry_lookup.csv
-Archive file:      AntonioEggermont-PerlSolution.tar
+* Perl script:       emailXMLGen.pl
+* CSV source files:  emails.csv
+                     industry_lookup.csv
+* Archive file:      AntonioEggermont-PerlSolution.tar
+
+To run the program:
+
+    1. Make the location of perl in your system is correct in the script's shebang
+    2. Change execute permissions to this script:
+           chmod a+x emailXMLGen.pl
+    3. Then simply run ./emailXMLGen.pl
 
 
 Notes
