@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+    <item>
+        <name>Karen</name>
+        <email>karen@doodle.com</email>
+        <score>305 </score>
+        <industry>Finance  </industry>
+    </item>
+    <item>
+        <name>Nancy</name>
+        <email>nancy@hohos.com</email>
+        <score>200 </score>
+    </item>
+    <item>
+        <name>Dave</name>
+        <email>dave@dave.com</email>
+        <score>263 </score>
+        <industry>Finance  </industry>
+    </item>
+    <item>
+        <name>George</name>
+        <email>george@burns.com</email>
+        <score>250 </score>
+        <industry>Technology  </industry>
+    </item>
+    <item>
+        <name>Lucille</name>
+        <email>lucille@knees.com</email>
+        <score>180 </score>
+        <industry>Retail  </industry>
+    </item>
+    <item>
+        <name>Allen</name>
+        <email>allen@company.com</email>
+        <score>450 </score>
+        <industry>Finance  </industry>
+    </item>
+    <item>
+        <name>Melanie</name>
+        <email>mel@yachoo.com</email>
+        <score>300 </score>
+    </item>
+    <item>
+        <name>Joe</name>
+        <email>joe@hoohoo.com</email>
+        <score>400 </score>
+    </item>
+    <item>
+        <name>Bob</name>
+        <email>bob@jimbo.com</email>
+        <score>415 </score>
+    </item>
+    <item>
+        <name>Missy</name>
+        <email>missy@moon.com</email>
+        <score>236 </score>
+    </item>
+    <item>
+        <name>Phil</name>
+        <email>phil@harmonic.com</email>
+        <score>337 </score>
+    </item>
+    <item>
+        <name>Walter</name>
+        <email>walter@lakes.com</email>
+        <score>166 </score>
+    </item>
+    <item>
+        <name>Billy</name>
+        <email>billy@willynilly.com</email>
+        <score>260 </score>
+        <industry>Travel  </industry>
+    </item>
+    <item>
+        <name>Marie</name>
+        <email>marie@curie.com</email>
+        <score>194 </score>
+    </item>
+    <item>
+        <name>Flo</name>
+        <email>flo@v8cafe.com</email>
+        <score>428</score>
+        <industry>Entertainment  </industry>
+    </item>
+</items>
