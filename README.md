@@ -24,6 +24,7 @@ XML generator written in Python
 * Python script:     emailXMLGen.py 
 * CSV source files:  emails.csv
                    industry_lookup.csv
+* Sammple generated XML doc: merged.xml
 * Archive file:      AntonioEggermont-PythonSolution.tar
 
 
@@ -42,6 +43,7 @@ XML generator written in Perl
 * Perl script:       emailXMLGen.pl
 * CSV source files:  emails.csv
                      industry_lookup.csv
+* Sammple generated XML doc: merged.xml
 * Archive file:      AntonioEggermont-PerlSolution.tar
 
 To run the program:
